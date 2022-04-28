@@ -5,10 +5,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>home</title>
+<title>Insert title here</title>
 </head>
 <body>
-home
-member
+
 </body>
 </html>
