@@ -9,6 +9,5 @@
 </head>
 <body>
 home
-member
 </body>
 </html>
